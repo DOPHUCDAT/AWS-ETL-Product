@@ -1,0 +1,4 @@
+apache-airflow
+apache-airflow[postgres]
+pandas
+bs4S
